@@ -1,0 +1,18 @@
+p{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: Montserrat;
+}
+.heading{
+    font-weight: bold;
+    font-size: 55px;
+}
+.subheading{
+    margin-top: 10px;
+    font-size: 25px;
+}
+.underline{
+    text-decoration: underline;
+    cursor: pointer;
+}
